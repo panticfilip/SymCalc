@@ -135,6 +135,6 @@ if (OperatingSystem.IsWindows())
 
 ---
 
-## License
+## Author
 
-MIT
+Filip Pantić
