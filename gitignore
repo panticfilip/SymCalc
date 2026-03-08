@@ -1,0 +1,26 @@
+## .NET / C#
+
+# Build output
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider / JetBrains
+.idea/
+
+# Generated images (demo output)
+*.png
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# OS
+.DS_Store
+Thumbs.db
