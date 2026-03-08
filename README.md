@@ -56,7 +56,7 @@ SymCalc/
 ### Build and run the demo
 
 ```bash
-git clone https://github.com/your-username/SymCalc.git
+git clone https://github.com/panticfilip/SymCalc.git
 cd SymCalc
 dotnet run
 ```
